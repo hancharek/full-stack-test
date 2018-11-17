@@ -29,3 +29,32 @@
   
 - Opcional:
   - versão de build / produção do front-end
+
+
+- Realizado a produçao do front-end e back-end
+Dentro da pasta principal está a pasta do back-end.
+
+
+# frontend
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+http://localhost:8080/
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+
+Na pasta backend-server também README para execução do projeto.
